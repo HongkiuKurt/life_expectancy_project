@@ -1,4 +1,4 @@
-# life_expectancy_project
+# Midterm Project
 
 ## 1 Overview:
 
@@ -31,3 +31,25 @@ All predicting variables were divided into the following broad categories:
 - Social factors
 ##### 1.2.3 Link to the Dataset:
 https://www.kaggle.com/kumarajarshi/life-expectancy-who
+
+
+## 2 Timeline
+##### Project topics:
+Data Cleaning | Explore Data | Process Data | Apply Model | Validate Model | Visualization(Tableau) | Optimize Model/Workbook | Prepare Presentation
+
+
+| Weekend       | Monday         | Tuesday        |Wednesday      | Thursday      | Friday        |
+| ------------- |:--------------:|:--------------:|:-------------:|:-------------:|:-------------:|
+|              |Goal: Building first model|Goal: Discuss Design<br>Second optimized model     | Goal: Visulataion (Tableau)<br>Adding additional Information     | Goal: Rehearsal    |  Presentation | 
+|Steps of modeling -H|Divide/Encode Numeric/Categorical -R| interpret model - E    |Layout design - H     |Test function and data- H     |  | 
+| Initial data cleaning -H      | Plot first impression - together    | Validate model - E    | Sketch of the presentation - E/R    |Add final data/charts - E      |   | 
+| Project Plan - R | x-y /train-test split - R   |  Optimzie data - E  |Write text for presentation - E     | Final version presentation - R    |   | 
+| Handle Null/Nan-Values -E|x-y /train-test split - R  | Clean notebook -E/R    |Clean workbook - R     |  Rehearsal of presentation   |   | 
+| Handle Outliers -E|Choose and train model - E     |Reduce no. of coefficients - R     | Design presentation - R    |   | 
+||Find design reference - H|Collect design materials - H|1st version of presentation - E||
+||Draw sketch of story - H|Ploting - H|||
+
+legend: E = Emma | H = Hong | R = Raphael
+  
+
+
